@@ -47,7 +47,7 @@
                 <ul class="nav navbar-nav side-nav">
                     <li class="active">
                         <a href="student.php"><i class="fa fa-fw fa-dashboard"></i> Dashboard</a>
-                        <a href="add.php"></i> Add</a>
+                        <a href="add.php"></i>Add</a>
                     </li>
                     
                 </ul>
