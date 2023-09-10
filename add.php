@@ -74,7 +74,7 @@
 
 
              <div class="col-lg-12">
-                  <h2>Add new Records</h2>
+                  <h2>Add New Records</h2>
                       <div class="col-lg-6">
 
                         <form role="form" method="post" action="transac.php?action=add">
