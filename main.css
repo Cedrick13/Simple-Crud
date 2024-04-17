@@ -58,7 +58,7 @@ body{
 	transition: .7s;
 }
 .login_form button:hover{
-	background: #713e0a;
+	background: #71300a;
 }
 .login_form #email_error,
 .login_form #pass_error{
