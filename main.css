@@ -54,7 +54,7 @@ body{
 	font-weight: bold;
 	background: #1a094ac7;
 	border-radius: 5px;
-	border: 3px solid #1201AB;
+	border: 4px solid #1201AB;
 	transition: .7s;
 }
 .login_form button:hover{
