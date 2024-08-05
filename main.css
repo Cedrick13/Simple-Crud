@@ -55,7 +55,7 @@ body{
 	background: #1a094ac7;
 	border-radius: 6px;
 	border: 7px solid #1201AB;
-	transition: .7s;
+	transition: .8s;
 }
 .login_form button:hover{
 	background: #71300a;
