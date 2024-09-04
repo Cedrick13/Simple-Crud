@@ -53,7 +53,7 @@ body{
 	cursor: pointer;
 	font-weight: bold;
 	background: #1a094ac7;
-	border-radius: 8px;
+	border-radius: 9px;
 	border: 8px solid #1201AB;
 	transition: .9s;
 }
