@@ -63,7 +63,7 @@ body{
 .login_form #email_error,
 .login_form #pass_error{
 	margin-top: 10px;
-	width: 347px;
+	width: 348px;
 	font-size: 19px;
 	color: #c1209880;
 	background: rgba(255,0,0,0.1);
